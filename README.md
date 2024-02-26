@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trevor Streng</h1>
 <h3 align="center">A passionate software developer from Sacramento</h3>
 
-- 🔭 I’m currently working on [Feed](https://github.com/TrevorStreng/dataDashboard)
+- 🔭 I’m currently working on [Data Dashboard](https://github.com/TrevorStreng/dataDashboard)
 
 - 🌱 I’m currently learning **Matplotlib, Scikit-learn**
 

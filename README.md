@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Trevor Streng</h1>
 <h3 align="center">A passionate software developer from Sacramento</h3>
 
-- 🔭 I’m currently working on [Data Dashboard](https://github.com/TrevorStreng/dataDashboard)
+- 🔭 I’m currently working on [Fort_bot](https://github.com/TrevorStreng/fort_bot)
 
-- 🌱 I’m currently learning **Matplotlib, Scikit-learn**
+- 🌱 I’m currently learning **Pytorch**
 
 - 👯 I’m looking to collaborate on **a new project**
 
@@ -13,7 +13,7 @@
 
 - 📝Learn more about me on [https://www.trevorstreng.com/](https://www.trevorstreng.com/)
 
-- 💬 Ask me about **React, NodeJS, and Javscript**
+- 💬 Ask me about **NodeJS and Javscript**
 
 - 📫 How to reach me **trevor.streng@yahoo.com**
 

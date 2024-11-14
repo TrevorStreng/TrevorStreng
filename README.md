@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **a new project**
 
-- 🤝 I’m looking for help with [Crypto currency bot](https://github.com/TrevorStreng/cryptoBot)
+- 🤝 I’m looking for help with [CNN image recognition](https://github.com/TrevorStreng/deepLearning_withPytorch)
 
 - 👨‍💻 All of my projects are available at [https://github.com/TrevorStreng](https://github.com/TrevorStreng)
 

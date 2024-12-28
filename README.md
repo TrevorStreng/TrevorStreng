@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trevor Streng</h1>
-<h3 align="center">A passionate software developer from Sacramento</h3>
+<h3 align="center">An aspiring software engineering and Computer Science Student at Chico State</h3>
 
 - 🔭 I’m currently working on [Fort_bot](https://github.com/TrevorStreng/fort_bot)
 
